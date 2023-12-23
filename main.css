@@ -24,11 +24,11 @@ body {
 .centered {
   position: absolute;
   top: 10%;
-  left: 38%;
+  left: 30%;
   background: -webkit-linear-gradient( #ee5286, #f672b0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-family: 'Playfair Display';font-size: 25px;
+  font-family: 'Playfair Display';font-size: 20px;
   animation: 2s anim-lineUp ease-out infinite;
   transform: translate(-50%, -50%);
 }
